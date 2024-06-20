@@ -1,6 +1,6 @@
 ﻿$TaskDisplayName = "HSLockDown - LIST Accounts"
 $ClassDisplayName = "SCOM Agent Management Class"
-$ClassTargetDisplayName = "db*"
+$ClassTargetDisplayName = "dc*"
 $TimeToExecute = 10
 
 
